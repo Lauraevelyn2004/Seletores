@@ -1,41 +1,55 @@
-Visão Geral
-Este projeto foi desenvolvido para a disciplina de Tecnologias de Desenvolvimento para Internet I do IFSULDEMINAS - Campus Machado. O objetivo é aplicar seletores CSS para criar um site com layout agradável, com foco em acessibilidade e detalhes visuais sutis, utilizando apenas HTML5 e CSS3.​
+# Projeto: Site com Seletores CSS
 
-🖼 Demonstração Visual
+Este projeto foi desenvolvido para a disciplina **Tecnologias de Desenvolvimento para Internet I** do **IFSULDEMINAS - Campus Machado**.  
+O objetivo principal é aplicar **seletores CSS**, incluindo **pseudoclasses** e **pseudoelementos**, para criar um site com **layout agradável, acessível e visualmente organizado**, utilizando apenas **HTML5** e **CSS3**.
 
-<img width="487" height="611" alt="image" src="https://github.com/user-attachments/assets/79ec21a6-037d-4155-b067-3839c00926c9" />
+---
 
-Funcionalidades
-Navegação intuitiva com menu moderno
+## Demonstração Visual
 
-Estilização por seletores, pseudoclasses e pseudoelementos
+> Exemplo da interface desenvolvida:
 
-Seções com espaçamento e fundo suave
+<img width="300" alt="Demonstração do site" src="https://github.com/user-attachments/assets/79ec21a6-037d-4155-b067-3839c00926c9" />
 
-Formulário estilizado e rodapé personalizado
+---
 
-Visual limpo, agradável e responsivo
+## Funcionalidades
 
-📁 Estrutura de Arquivos
-texto
+- Menu de navegação simples e intuitivo
+- Estilização com seletores CSS avançados
+- Uso de pseudoclasses e pseudoelementos
+- Seções com espaçamento equilibrado e fundo suave
+- Formulário estilizado
+- Rodapé personalizado
+- Layout limpo e agradável
+- Responsividade básica
+
+---
+
+## 📁 Estrutura de Arquivos
+```
 /
 ├── index.html
 ├── styles.css
-├── README.md
+└── README.md
+```
+---
 
-Como Usar 
+## Como Usar
 
-Clonar o repositório:
-bash
-git clone https://github.com/seunome/seletores-css
-Abra o arquivo index.htmlem seu navegador.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seunome/seletores-css
+Abra o arquivo index.html em qualquer navegador.
 
-Tecnologias
-HTML5
-CSS3
+🛠 Tecnologias Utilizadas
+Tecnologia	Descrição
+HTML5	Estrutura e marcação do conteúdo
+CSS3	Estilização e layout visual
 
-Autores
+Autora
 Laura Evelyn Neves Oliveira
 
 📄 Licença
-Projeto acadêmico para fins educacionais.
+Projeto desenvolvido para fins acadêmicos e educativos.
+Sinta-se livre para estudar, modificar e reutilizar.
